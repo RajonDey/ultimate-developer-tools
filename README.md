@@ -448,7 +448,7 @@ If you find this resource helpful, please consider giving it a star ⭐ on GitHu
 
 ### How to Contribute
 
-We welcome contributions from the developer community! Before submitting new tools or suggestions, please read our [contributing guidelines](CONTRIBUTING.md). Your input helps make this resource even more valuable for developers worldwide.
+We welcome contributions from the developer community! Before submitting new tools or suggestions, please read our [contributing guidelines](https://github.com/RajonDey/ultimate-developer-tools/blob/main/contribution.md). Your input helps make this resource even more valuable for developers worldwide.
 
 ### Get in Touch
 
@@ -460,7 +460,7 @@ Let's continue building the future of technology together! ✨
 
 ### License
 
-This project is licensed under the MIT License. For more details, see the [LICENSE.md](LICENSE.md) file.
+This project is licensed under the MIT License. For more details, see the [LICENSE.md](https://github.com/RajonDey/ultimate-developer-tools/blob/main/LICENSE) file.
 
 ---
 
