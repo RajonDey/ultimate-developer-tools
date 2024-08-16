@@ -415,11 +415,11 @@ Virtual Private Servers (VPS) and Dedicated Servers offer more control and resou
 ## Stay Connected
 
 ### 📬 Get the Ultimate Developer Tools eBook
-<img src="./images/cover.jpg" alt="Ultimate Developer Tools v1 2024 eBook Cover" width="300" align="right">
+<a href="https://developer-data.beehiiv.com/subscribe"><img src="./images/cover.jpg" alt="Ultimate Developer Tools v1 2024 eBook Cover" width="300" align="right"></a>
 
 Subscribe to my newsletter to receive the "Ultimate Developer Tools v1 2024" as a free PDF eBook, along with regular updates on new tools and development tips:
 
-[Subscribe to the Newsletter](https://drive.google.com/file/d/1lgNXcKRm2oYrXt24CCUOcrjSZ5jtYXA-/view?usp=sharing&utm_source=developer-data.beehiiv.com&utm_medium=newsletter&utm_campaign=welcome-coders-receive-your-welcome-gift-as-a-token-of-love)
+[Subscribe to the Newsletter](https://developer-data.beehiiv.com/subscribe)
 
 ### 🌐 Follow Me on Social Media
 
